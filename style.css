@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+header{
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: aqua;
+}
+nav a {
+ border-radius: 5px;
+    margin: 3px;
+    padding: 3px;
+    background-color: aqua;
+}
+header{
+padding: 5px;
+text-decoration: none;
+}
+main i{ 
+     background-image: linear-gradient(to right, rgb(36, 36, 36) , rgb(255, 255, 255));
+}
+footer { 
+ background-color:rgba(28, 179, 199, 0.473)
+}
